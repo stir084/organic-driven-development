@@ -20,3 +20,8 @@
    responsible for intent, consequences, and care.
 10. **Expect continued evolution.** A healthy system is never finally complete;
     it remains capable of becoming appropriate to its context.
+11. **Align parts with the whole.** Local agents need bounded objectives,
+    shared signals, and conflict mediation so that local success cannot silently
+    damage system health.
+12. **Operationalize the metaphor.** A biological analogy is useful only when it
+    produces a testable hypothesis, an observable signal, or a better decision.

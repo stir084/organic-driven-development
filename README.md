@@ -3,12 +3,15 @@
 > Software is not a machine to be completed. \
 > It is a living system that grows, adapts, heals, and evolves.
 
-Organic-Driven Development (ODD) is a philosophy for building software as a
-living system. It treats change as a natural condition, feedback as nourishment,
-and maintenance as continuous care—not as failure after delivery.
+Organic-Driven Development (ODD) is an experimental philosophy and engineering
+approach for cultivating software as a living system. Humans encode purpose,
+values, and constraints; specialized agents act within those boundaries; and the
+system continuously senses, remembers, repairs, and adapts.
 
-ODD does not prescribe a fixed process. It offers principles for making systems
-that can remain coherent while their users, environment, and capabilities change.
+ODD does not claim that software is biologically alive, and it is not yet a
+finished methodology. It uses life as a working model for discovering systems
+that remain healthy and coherent while their users, environment, and capabilities
+change.
 
 ## Why now?
 
@@ -18,9 +21,11 @@ changing organizations and environments. AI accelerates that change: producing
 code is becoming cheaper, while preserving intent, coherence, trust, and the
 ability to adapt is becoming more important.
 
-ODD asks a different question:
+ODD asks two different questions:
 
 **How do we cultivate software that can change without losing its identity?**
+
+**How do we align local agent behavior with the health of the whole system?**
 
 ## Core characteristics
 
@@ -33,20 +38,44 @@ An organic system:
 5. **Evolves responsibly** — obsolete structures may be replaced while essential
    knowledge and trust are preserved.
 
+## Working model
+
+The biological analogy is a map, not a literal identity:
+
+| Biology | ODD working model |
+| --- | --- |
+| Genome | Purpose, values, constraints, and retained knowledge |
+| Gene | Reusable policy, rule, or skill |
+| Cell | Runtime agent or worker |
+| Nervous system | Events, messages, and observation pathways |
+| Organ | Service with a specialized responsibility |
+| Organism | A coherent software system |
+| Ecosystem | Users, organizations, markets, and other systems |
+| Steward | Humans accountable for direction and consequences |
+
+Cooperation does not mean eliminating all competition or disagreement. ODD is
+interested in the mechanisms that keep local optimization, failure, and conflict
+from damaging the health of the whole.
+
 ## Documents
 
 - [Manifesto](MANIFESTO.md)
 - [Principles](PRINCIPLES.md)
 - [Patterns](PATTERNS.md)
+- [Research notes](notes/README.md)
+- [Experiment 001: Vital Loop](experiments/001-vital-loop.md)
 
 ## 한국어 요약
 
 유기적 주도 개발(ODD)은 소프트웨어를 완성해야 할 기계가 아니라 성장하고,
-적응하고, 회복하며, 진화하는 살아 있는 시스템으로 바라보는 철학입니다.
-변화를 예외가 아닌 자연스러운 조건으로 받아들이고, 빠른 코드 생산보다
-의도·일관성·신뢰를 유지하며 변화할 수 있는 능력을 중요하게 봅니다.
+적응하고, 회복하며, 진화하는 시스템으로 바라보는 실험적 철학이자 공학적
+접근입니다. 인간은 목적·가치·제약을 책임지고, 특화된 Agent들은 그 경계
+안에서 행동하며, 시스템은 자신의 상태를 감지하고 기억하고 회복하고
+적응합니다. 생물학은 문자 그대로의 정의가 아니라 검증할 가설을 발견하기
+위한 모델로 사용합니다.
 
 ## Status
 
-This repository begins with a question and a manifesto, not a finished
-methodology. Discussion, critique, and concrete examples are welcome.
+This repository is a research program, not a declaration of a solved method.
+Claims should become explicit hypotheses, then earn their place through working
+systems, measurements, criticism, and reproducible experiments.
