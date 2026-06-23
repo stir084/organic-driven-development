@@ -25,3 +25,6 @@
     damage system health.
 12. **Operationalize the metaphor.** A biological analogy is useful only when it
     produces a testable hypothesis, an observable signal, or a better decision.
+13. **Keep evolutionary authorship plural.** Do not reduce human direction to one
+    controller. Preserve mechanisms through which different knowledge, values,
+    risks, and affected communities can shape inheritable system intent.

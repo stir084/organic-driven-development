@@ -4,9 +4,10 @@
 > It is a living system that grows, adapts, heals, and evolves.
 
 Organic-Driven Development (ODD) is an experimental philosophy and engineering
-approach for cultivating software as a living system. Humans encode purpose,
-values, and constraints; specialized agents act within those boundaries; and the
-system continuously senses, remembers, repairs, and adapts.
+approach for cultivating software as a living system. Human groups cooperatively
+encode purpose, values, knowledge, and constraints; specialized agents express
+them through action; and the system continuously senses, remembers, repairs, and
+adapts.
 
 ODD does not claim that software is biologically alive, and it is not yet a
 finished methodology. It uses life as a working model for discovering systems
@@ -51,11 +52,17 @@ The biological analogy is a map, not a literal identity:
 | Organ | Service with a specialized responsibility |
 | Organism | A coherent software system |
 | Ecosystem | Users, organizations, markets, and other systems |
-| Steward | Humans accountable for direction and consequences |
 
 Cooperation does not mean eliminating all competition or disagreement. ODD is
 interested in the mechanisms that keep local optimization, failure, and conflict
 from damaging the health of the whole.
+
+Humans are not a single director standing above many agents. Different people
+carry domain knowledge, values, risk awareness, user understanding, and visions of
+the future. When those contributions are reconciled and encoded into durable
+artifacts, they become gene-like parts of the software genome. The organization is
+therefore a cooperative author of evolutionary direction, not merely a source of
+implementation labor.
 
 ## Documents
 
@@ -69,10 +76,11 @@ from damaging the health of the whole.
 
 유기적 주도 개발(ODD)은 소프트웨어를 완성해야 할 기계가 아니라 성장하고,
 적응하고, 회복하며, 진화하는 시스템으로 바라보는 실험적 철학이자 공학적
-접근입니다. 인간은 목적·가치·제약을 책임지고, 특화된 Agent들은 그 경계
-안에서 행동하며, 시스템은 자신의 상태를 감지하고 기억하고 회복하고
-적응합니다. 생물학은 문자 그대로의 정의가 아니라 검증할 가설을 발견하기
-위한 모델로 사용합니다.
+접근입니다. 한 명의 지휘자가 아니라 서로 다른 지식·가치·관점을 가진
+사람들이 함께 진화 방향을 만들고, 그것이 정책·Skill·코드·기억으로 축적되어
+Software Genome을 구성합니다. 특화된 Agent들은 이를 행동으로 발현합니다.
+생물학은 문자 그대로의 정의가 아니라 검증할 가설을 발견하기 위한 모델로
+사용합니다.
 
 ## Status
 
